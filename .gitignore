@@ -1,0 +1,41 @@
+# Arquivos e diretórios específicos ao Flutter
+/.idea/
+/.vscode/
+/build/
+/.dart_tool/
+.pub-cache/
+.pub/
+/generated/
+/metadata/
+packages/
+/pubspec.lock
+/ios/Pods/
+/ios/Podfile.lock
+/android/.gradle/
+/android/local.properties
+/AndroidStudioPreview
+/.flutter-plugins
+/.flutter-plugins-dependencies
+.idea/
+
+# Arquivos de sistema
+.DS_Store
+.DS_Store?
+*.swp
+Thumbs.db
+
+# Arquivos de configuração
+*.iml
+
+# Dependências locais do Android
+/.idea/workspace.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+
+# Arquivos temporários
+*.log
+
+# Dependências para ambientes de desenvolvimento (se você usar algum, como o Android Studio)
+/.vscode/
+/.idea/
