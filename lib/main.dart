@@ -232,7 +232,7 @@ class ErrorScreen extends StatelessWidget {
             ),
             SizedBox(height: 10.0),
             Text(
-              'Algo deu errado... Tente novamente mais tarde.',
+              'Algo deu errado... Tente novamente mais tarde..',
               style: TextStyle(fontSize: 16.0),
             ),
           ],
